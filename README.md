@@ -8,7 +8,7 @@
 
 This repository contains the content for the [Up-For-Grabs website](https://up-for-grabs.net/), a list of projects with curated tasks for new contributors.
   
-## List your project    
+## List your project     
 
 If you know of or own a project that should be listed on Up for Grabs,
 [follow the instructions to open a pull request](docs/list-a-project.md). 
